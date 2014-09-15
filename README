@@ -1,8 +1,8 @@
 
 DropAP
 
-DropAp simply creates an isolated disposible access 
-point from an TL-MR3020 flashed with OpenWrt. This 
+DropAp simply creates an isolated disposible WiFi
+LAN from an TL-MR3020 flashed with OpenWrt. This 
 device is a small portable AP router, manufactured 
 by TP-Link.
 
