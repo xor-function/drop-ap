@@ -33,11 +33,11 @@ fi
 
 get_permission() {
  while true; do
-       read yn
-       case $yn in
+       read ansr
+       case $ansr in
             [Yy] ) break;;
             [Nn] ) printf "\nexiting...\n"; exit;;
-               * ) echo "  please answer y or n";;
+               * ) printf "\nplease answer y or n";;
        esac
  done
 
