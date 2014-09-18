@@ -26,7 +26,7 @@ make_runlog() {
 get_path() {
 spath="$( cd "$(dirname "$0")" ; pwd -P )"
 if [[ ! -e  $spath/README ]]; then
-      printf "the READ was not found.\nDid you copy it as well? \ncannot continue\nexiting.."
+      printf "the README was not found.\nDid you copy it as well? \ncannot continue\nexiting.."
       exit
 fi
 }
