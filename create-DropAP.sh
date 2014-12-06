@@ -4,7 +4,7 @@
 # a short shell script to simplify the proccess of converting a
 # openwrt installation to serve as a disposable access point
 # with the sole purpose of aiding the distribution of information.
-# in a SneakerNet like fasion. Potientially this can be used
+# in a SneakerNet like fasion. Potentially this can be used
 # to create a type of airgap.
 #
 #
